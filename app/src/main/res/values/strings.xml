@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BottomMenuBar</string>
+
+    <string name="fragment_home">主页</string>
+    <string name="fragment_monitor">监控</string>
+    <string name="fragment_message">消息</string>
+    <string name="fragment_my">我的</string>
+
+</resources>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gray_btn_bg_color">#D0D0D0</color>
+    <color name="gray_btn_bg_pressed_color">#B6B6B6</color>
+    <!--  半透明 -->
+    <color name="translucent">#3e000000</color>
+    <color name="transparent">#1e000000</color>
+    <color name="float_transparent">#00000000</color>
+    <color name="main_color">#00a4e4</color>
+    <color name="thememain">#00a4e4</color>
+    <color name="mid_green_color">#1cac83</color>
+    <color name="white">#FFFFFF</color>
+    <color name="half_transparentP_white">#77FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="clouds">#ECF0F1</color>
+    <color name="blue">#61B6CE</color>
+    <color name="yellow">#E6BE58</color>
+    <color name="orange">#DF9240</color>
+    <color name="red">#DB525E</color>
+    <color name="red_mian">#FF0000</color>
+    <color name="dark_blue">#4278CE</color>
+    <color name="green">#73CA6C</color>
+    <color name="grey">#8b8985</color>
+    <color name="river_blue">#3498DB</color>
+    <color name="calendar_active_month_bg">#FFF5F7F9</color>
+    <color name="calendar_bg">#FFFFFFFF</color>
+  	<color name="calendar_divider">#FFBABABA</color>
+  	<color name="calendar_inactive_month_bg">#FFD7D9DB</color>
+  	<color name="calendar_selected_day_bg">#FF379BFF</color>
+  	<color name="calendar_highlighted_day_bg">#CCFFCC</color>
+  	<color name="calendar_selected_range_bg">#FF96CAFF</color>
+  	<color name="calendar_text_inactive">#40778088</color>
+  	<color name="calendar_text_active">#FF778088</color>
+  	<color name="calendar_text_selected">#FFFFFFFF</color>
+  	<color name="calendar_text_unselectable">#7F778088</color>
+  	<color name="m_blue">#40b4be</color>
+    <color name="darkgrey">#6C6C6C</color>
+    <color name="lightgrey">#ECECEC</color>
+    <color name="lightlightgrey">#F1F1F1</color>
+    <color name="trans_selected_day_bg">#22379BFF</color>
+    <color name="normal_bg_grey">#DCDCDC</color>
+    <color name="dark_green">#385E0F</color>
+    <color name="orange_red">#E3170D</color>
+    <color name="purple_red">#EE3A8C</color>
+    <color name="status_blue">#1874CD</color>
+    <color name="alarm_orange">#FF7F00</color>
+    <color name="yama_grey">#FAFFF0</color>
+    <color name="push_setting_grey">#66DCDCDC</color>
+
+    <!--  关于Scanning  -->
+    <color name="colorPrimary">#42BD56</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="result_view">#b0000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+
+    <color name="text1">#59B29C</color>
+    <color name="text2">#333333</color>
+
+
+
+    <color name="message_bg">#EEEDF3</color>
+
+</resources>
